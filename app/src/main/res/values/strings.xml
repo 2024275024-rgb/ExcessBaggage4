@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Excess Baggage Fee</string>
+    <string name="title">EXCESS BAGGAGE FEE</string>
+    <string name="weight">Baggage Weight (kg)</string>
+    <string name="enter_weight">Enter baggage weight</string>
+    <string name="ticket_class">Ticket Class</string>
+    <string name="economy">Economy (20 kg)</string>
+    <string name="business">Business (40 kg)</string>
+    <string name="rate">Rate per kg (RM)</string>
+    <string name="enter_rate">Enter rate per kg</string>
+    <string name="calculate">CALCULATE FEE</string>
+    <string name="result">CALCULATION RESULT</string>
+    <string name="excess_weight">Excess Weight: 0 kg</string>
+    <string name="charge">Excess Charge: RM 0.00</string>
+    <string name="total">Total Payable: RM 0.00</string>
+    <string name="about">ABOUT US</string>
+    <string name="share">SHARE APP</string>
+    <string name="copy_link">COPY LINK</string>
+    <string name="link_copied">Link copied to clipboard!</string>
+</resources>
