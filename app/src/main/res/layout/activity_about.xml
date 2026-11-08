@@ -162,7 +162,7 @@
                         android:id="@+id/tvAppUrl"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Application Website: https://github.com/USERNAME/REPOSITORY"
+                        android:text="Application Website:https://github.com/2024275024-rgb/ExcessBaggage4.git"
                         android:textSize="14sp"
                         android:textColor="#163B68"
                         android:autoLink="web"
